@@ -1,2 +1,2 @@
 # Sridhar-Vempati Resume
-My Resume, written using LaTeX.
+Find my resume here at Sridhar-Vempati.pdf file.
