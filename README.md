@@ -1,2 +1,3 @@
 # Sridhar-Vempati Resume
-Find my resume here at Sridhar-Vempati.pdf file.
+
+I am Sridhar Vempati and I am currently pursuing B. Tech 3rd year in Electronics & Communication from Central University of Karnataka. I have an overall percentage of 89% in my engineering background (till 2nd year). I took the 2022 GATE exam and I'm looking forward to the results. I was awarded the NPTEL Enthusiast Certificate for having completed eight NPTEL courses. Previously, I worked as a Real Time Embedded Systems and Mechatronics Intern at Robocoupler pvt. ltd. for 2 months, Internet of things Intern at Verzeo pvt. Ltd. for 2 months and Python Project Development Intern in Codespeedy for a month.
